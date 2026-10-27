@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ScreenshotShelf</title>
+        <item>
+            <title>0.7.8</title>
+            <pubDate>Tue, 27 Oct 2026 19:25:31 +0000</pubDate>
+            <link>https://github.com/Miguelrrl/ScreenshotShelf-updates</link>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>0.7.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://miguelrrl.github.io/ScreenshotShelf-updates/ScreenshotShelf-0.7.8.md</sparkle:releaseNotesLink>
+            <enclosure url="https://miguelrrl.github.io/ScreenshotShelf-updates/ScreenshotShelf-0.7.8.dmg" length="3896128" type="application/octet-stream" sparkle:edSignature="qGxClllRBurmGRmywfwDq3w1599bXEYYN6v3hpHpN8c6CoPjzmhWF/FjW9OB1izC7BTv2O0qKmpuksSNjKPuDA=="/>
+        </item>
+    </channel>
+</rss>
